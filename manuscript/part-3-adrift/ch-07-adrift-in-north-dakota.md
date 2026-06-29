@@ -111,4 +111,15 @@ Sixteen-hour days, closing two restaurants alone, and avoiding people were survi
 Ongoing social anxiety (walking around the building to use the back entrance, shopping only at 2–3 a.m., paying others to go to stores) should be read as hypervigilance and fear-based avoidance, not disrespect for supervision or community expectations. Trauma-informed practice in justice settings recommends “thinking trauma first” when behaviors look like withdrawal, inconsistency, or difficulty with appointments.
 
 Sustainable compliance with court and probation conditions in this case will depend on stabilizing the nervous system and addressing trauma, not just adding more rules or punishments. Research and federal guidance support pairing substance use monitoring with structured mental health treatment (therapy, trauma-informed care, skills for regulating stress and anxiety) and practical support for appointments, rather than viewing every no-show as willful noncompliance.
+Suggested Conditions for Trauma-Informed Supervision
+For the Court / Probation / Casework Systems:
 
+Trauma-specific treatment over standard compliance: Require participation in trauma-informed treatment such as EMDR, somatic therapies, or therapy specifically addressing complex trauma, because trauma treatment targets nervous-system regulation and can improve functional compliance more effectively than generic anger management or basic monitoring alone.
+
+Freeze protocol for flexible reporting: Treat some missed appointments as possible freeze or executive dysfunction episodes rather than automatic defiance, and allow a simple prearranged text or call protocol to pause and reschedule when the person is overwhelmed, with required follow-up contact within 24 hours. Reminder-based and flexible supervision approaches can reduce missed appointments and support engagement better than purely punitive responses.
+
+Medical and psychiatric stability checks: Require ongoing medical and psychiatric follow-up for trauma-related symptoms, sleep disruption, anxiety, depression, and other regulation problems, since federal supervision guidance recognizes mental health treatment as a valid supervision condition when it supports behavioral stability and public safety.
+
+Harm reduction over immediate incarceration: Respond to relapse or behavioral slips as clinical warning signs that need rapid intervention, treatment adjustment, and supervision review rather than automatic jail sanctions, because trauma-informed approaches in justice settings are designed to support rehabilitation and reduce cycling back into crisis.
+
+Environmental modification: Allow alternative reporting methods such as phone check-ins, secure messaging, or shortened in-person visits on high-symptom days when hypervigilance, agoraphobia, or panic makes travel to a courthouse or probation office unusually difficult. Coordinated behavioral health and probation support is a recognized strategy for improving supervision outcomes in people with mental health needs.
