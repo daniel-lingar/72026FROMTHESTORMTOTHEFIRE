@@ -1,161 +1,96 @@
-Chapter 6
-The Breaking Point (Garrett’s Loss)
-Let me take you back to 2011.
+Chapter 7
 
-The outside storm of my childhood had mostly passed, but the fire inside me was still burning. Years of pain, avoidance, and drug use had kept it alive. From the outside, my life looked stable. Inside, I was barely holding together. I had a house. Kids. A marriage. A life that looked contained. But underneath all of that, I was surviving on avoidance and weak compromises. I was numb most of the time, and I had gotten good at pretending that was normal.
+Adrift in North Dakota
 
-The last time I saw him
-Thursday, June 23, 2011.
 
-I was at my parents’ house, sitting on the toilet, trying to take a shit, when someone started pounding on the door.
 
-“Open up!” Garrett yelled.
+After Garrett died, the unraveling didn’t happen fast. It stretched. Frayed. Like a rope taking weight it was never meant to carry. By the time my marriage finally collapsed in 2020, the fire had already been burning for years.
 
-“I’m taking a shit!” I snapped back.
 
-The pounding got louder.
 
-“Open the door, man. You’ll be happy. I’ve got a surprise for you.”
+The opiate addiction that started when I was seventeen had changed shape around 2015. Pills gave way to Suboxone for six months—just long enough to convince me I was stabilizing—before meth took over. Sometimes injected. Sometimes traded for alcohol. One master replacing another. The illusion of choice masking the same captivity.
 
-I opened the door, still half-seated on the toilet.
 
-Garrett stood there with that intense look in his eyes. There was something frantic behind it, something wild and urgent. Before I could really react, he grabbed my arm, found a vein, and slid a needle in. Just as fast, he pulled it out.
 
-“See?” he said.
+When Trinity took the kids, the house emptied out in a way that felt physical. Four bedrooms reduced to echoes. I couldn’t afford it alone. Didn’t need the space anyway. I slept on a buddy’s floor for a while, my life compressed down to whatever could fit beside a mattress and a pipe.
 
-Then he walked out of the bathroom. Out of the house.
 
-That was the last time I ever saw him alive.
 
-Garrett
-His full name was William Garrett Lingar.
+I needed distance. A reset. Somewhere far enough away that the noise might finally stop.
 
-He was thirty-two. Wild. Restless. Always looking over his shoulder. There were warrants. Chaos. Late nights. Bad choices. Fear hiding under bravado. He was a mirror I didn’t want to look into.
 
-I envied his freedom. No real ties. No house. No marriage. No kids depending on him. He could move however he wanted—or at least that’s how it looked to me then.
 
-He envied what I had. The kids. The house. The structure. A life that looked like it had a frame around it.
+So I went north.
 
-We used to drink beer and talk about being jealous of each other.
 
-Looking back now, as a grown man living more like he lived back then, I see it differently.
 
-I had it all.
+Williston, North Dakota. Full-time work at Love’s Truck Stop. Cold air. Long hours. Structure. I told myself it was a fresh start. What I didn’t understand yet was that you can’t outrun a nervous system. You just give it new terrain. The fire came with me.
 
-I just couldn’t feel it. I was zombified—walking through a life I should have been grateful for, too numb and buried in myself to understand what I had. If God allowed redos, I’d go back to being nineteen or twenty. I’d love every waking, zombified moment. I’d hold my kids tighter. I’d pay attention. I’d stop thinking life was something waiting for me somewhere else.
 
-I envy that younger version of me now.
 
-He had more than he knew.
+Work became the next addiction. It was cleaner. Legal. Praised. I threw myself into it with the same compulsive intensity I’d always used to survive. If I stayed busy—stocking, cleaning, hauling, closing—maybe I wouldn’t feel the weight of my mother’s death in December 2021. Maybe I wouldn’t think about the divorce. Maybe I wouldn’t feel the ache of my kids being gone.
 
-Kansas City
-Friday, June 24, 2011.
 
-Arkansas summer heat pushed thick against everything. Greg’s mom picked me up in Clarksville and drove me to Fayetteville to meet Greg. From there, just me and Greg headed to Kansas City to help move Beth back to Arkansas. There was a U-Haul. A house waiting in Goshen. Heavy work to do.
 
-Just me and Greg.
+For the first six months, they thought I was a miracle. I worked like five people. Learned every position. Took every extra task. Unloaded trucks—dry goods, walk-in, deep freeze. Stocked everything. Cleaned what no one else wanted to touch. I trained new hires not because I was promoted, but because I’d absorbed everything through sheer, compulsive effort.
 
-A week earlier, Garrett had talked to Greg and said he’d go help in Kansas City. I knew that. But that morning, I didn’t wake Garrett up before I left. I didn’t go back to his room. I didn’t knock on his door.
 
-In the moment, it felt like nothing. Just a small decision. A non-event. One of those choices you make without understanding that your whole life may circle back to it later.
 
-I would replay that decision for the rest of my life.
+The praise came fast. The raises followed.
 
-Halfway up the highway, my phone rang. It was Garrett.
 
-His voice was pure rage.
 
-“What the fuck, dude? Greg’s a cop. I would’ve ridden with him. You knew I wanted to go!”
+For a while, it felt like proof that this time was different.
 
-Before I could answer, the line went dead.
 
-The wreck
-Later, the pieces came together.
 
-After we left, Garrett took my dad’s Xterra and drove to his girlfriend’s place looking for his meds. She said she didn’t have them. He called the cops. Everything escalated. Then she called them back and accused him of rape. They questioned him for hours. Then they let him go.
+It never is.
 
-By then, he was unraveling.
 
-That night, he bought beer. He drank. Then he drove.
 
-On Brick Plant Road, he lost control. Ninety miles an hour into a tree. The impact was so violent it threw the headlights fifty yards from the wreck.
+Burnout doesn’t announce itself. It creeps in quietly. One morning, I was scheduled for a 5 a.m. shift. I woke to pounding on my apartment window. Sunlight everywhere. It was 9 a.m. Shame hit like a gut punch. I swore it wouldn’t happen again.
 
-Garrett died instantly.
 
-The phone call in Goshen
-Saturday morning in Kansas City felt normal until it didn’t.
 
-I was sitting in the U-Haul when Greg came out and told me I had a phone call. I followed him into the house. Someone handed me the phone.
+The next morning, it did. Same pounding. Same time. Same humiliation.
 
-It was Trinity.
 
-“Garrett’s gone,” she said. “He’s dead. There was a wreck.”
 
-The world stopped.
+A week later, I realized my alarm volume had somehow been set to mute. A simple explanation. Too late to matter. I was taken off mornings permanently and put on straight second shifts.
 
-I don’t remember whether I dropped the phone or handed it back. That part is gone. I remember going outside. I walked about thirty yards into the yard. Then I collapsed. I punched the ground because I needed something solid to hit. I looked up at the sky and screamed, “Fuck you, God. Fuck you.”
 
-Beth’s mom must have seen me in the yard. Maybe she heard me cussing God. She was the first person I remember seeing after the call.
 
-I didn’t have thoughts. It felt like I had just been born into pain—mind wiped clean, all that was left this one impossible thing.
+That created its own hell.
 
-My brother was dead.
 
-She opened her arms.
 
-And I lost it.
+We were perpetually short-staffed. For four solid months, I closed both restaurants alone. Every dish from two kitchens. Sweeping and mopping massive floors. Hauling trash. Cleaning three deep fryers. Boxing leftover food. Doing prep for the next day. Sometimes it was two in the morning before I left, reeking of grease and exhaustion.
 
-She walked me over to the porch swing and sat down with me. I folded toward her like a little kid. My head ended up in her lap, and I cried like a two-year-old. Loud. Messy. Snot and tears everywhere. All over her.
 
-She didn’t pull away. She didn’t tell me to calm down. She didn’t make a speech. She didn’t try to fix it.
 
-She just sat there and rocked me.
+Even then, boundaries didn’t exist. The night manager from the store side—someone I didn’t even technically work for—would wander back, see me drowning, and ask me to do extra tasks for him. Coffee. Cleaning. Whatever he didn’t want to deal with. I couldn’t say no. The best I could manage was to forget.
 
-I didn’t have words for it then. Now I do: she lent me her nervous system until mine could breathe again.
 
-It may have been the kindest thing anyone ever did for me. It was also the first time my emotions outweighed my social anxiety. For once, I wasn’t worried about being seen.
 
-I was too broken to hide.
+Social anxiety wrapped tighter the longer I stayed. Walking out of my apartment felt like stepping onto a stage. Every glance felt like judgment. I walked the entire perimeter of the building just to enter through the back, avoiding the front entrance. I took tasks in the back whenever I could. Customer interaction drained me. Fluorescent lights buzzed like they were inside my skull.
 
-The verdict
-The guilt came right away.
 
-Not as a question. As a verdict.
 
-If I would have woken him up.
-If I had knocked on his door.
-If I hadn’t left without him.
+I was constantly late—ten minutes, fifteen, sometimes thirty. Not because I didn’t care, but because there was a war in my chest before every shift. The only jobs where it never happened were the ones where I was in charge.
 
-He would have had different choices in front of him. Maybe he would have gone to Kansas City. Maybe he would have ridden with us. Maybe he wouldn’t have gone to that house looking for his meds. Maybe he wouldn’t have been questioned for hours. Maybe he wouldn’t have bought the beer. Maybe he wouldn’t have been on Brick Plant Road that night.
 
-That’s how guilt works. It doesn’t need the whole chain. It finds one small link and hangs your whole life from it.
 
-None of it felt like clean grief.
+When I wasn’t working, I disappeared. I avoided stores unless it was an emergency. If Love’s didn’t stock what I needed, I paid someone else to go to Walmart. When I did go myself, it was at two or three in the morning. Less people. Less threat.
 
-It felt like proof.
 
-Proof that I was dangerous to the people I loved. Proof that being close to me could get people hurt. Proof that I had failed him.
 
-My cousin offered to take me home right then. I said no. On the surface, it was about finishing the move. The deeper truth was simpler:
+The move north didn’t extinguish the fire. It isolated it. I was surrounded by people and completely alone. Sixteen-hour days and solitary closing shifts didn’t silence grief or heal loss. They just proved what I’d been running from my whole life.
 
-I didn’t want to go home.
 
-Some part of me believed that if I stayed in Kansas City, maybe it hadn’t fully happened yet. Maybe it wouldn’t be real until I crossed back into Arkansas.
 
-That night, we went to the Royals and Cubs game. My first professional baseball game.
+The storm wasn’t outside.
 
-The grass was so green it felt fake. A stadium full of people. Lights bright. Sound loud. Life roaring around a man who had just been split open.
 
-I remember looking at the field and thinking: How can the world be this alive when my brother is dead?
 
-The game went on.
+It was me.
 
-So did I.
-
-But that weekend in Kansas City was the point where the wiring finally snapped tight around one idea:
-
-I was the common denominator in too much wreckage.
-
-And from there, every loss had a new echo:
-
-This is your fault.
