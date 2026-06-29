@@ -5,17 +5,132 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>From the Storm to the Fire</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
-        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
-        .btn { display: inline-block; background: #333; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 20px; }
-        .btn:hover { background: #555; }
+        :root {
+            --bg-color: #fdfdfd;
+            --text-color: #1a1a1a;
+            --accent-color: #8b0000;
+            --border-color: #e0e0e0;
+        }
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            max-width: 750px;
+            margin: 60px auto;
+            padding: 0 20px;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+        }
+        header {
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin: 0 0 10px 0;
+            font-weight: normal;
+            letter-spacing: 1px;
+        }
+        .subtitle {
+            font-style: italic;
+            font-size: 1.1rem;
+            color: #555;
+            margin: 0;
+        }
+        p {
+            font-size: 1.1rem;
+            text-align: justify;
+        }
+        .cta-container {
+            text-align: center;
+            margin: 40px 0;
+        }
+        .btn {
+            display: inline-block;
+            background: var(--text-color);
+            color: #fff;
+            padding: 12px 30px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-family: sans-serif;
+            font-size: 0.95rem;
+            letter-spacing: 1px;
+            font-weight: bold;
+            transition: background 0.2s ease;
+        }
+        .btn:hover {
+            background: var(--accent-color);
+        }
+        .repository-sections {
+            margin-top: 50px;
+            border-top: 1px solid var(--border-color);
+            padding-top: 30px;
+        }
+        h3 {
+            font-family: sans-serif;
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+            padding-left: 15px;
+            border-left: 2px solid var(--accent-color);
+        }
+        li strong {
+            font-family: sans-serif;
+            font-size: 0.95rem;
+        }
+        footer {
+            margin-top: 80px;
+            font-family: sans-serif;
+            font-size: 0.85rem;
+            color: #777;
+            text-align: center;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
     </style>
 </head>
 <body>
-    <h1>From the Storm to the Fire</h1>
-    <p>Working manuscript repository for <em>From the Storm to the Fire</em> by Daniel Lingar.</p>
-    <p>This site tracks structural edits, chapter revisions, and supporting manuscript materials as the book is refined.</p>
-    
-    <a href="FROM-THE-STORM-TO-THE-FIRE-8.pdf" class="btn" target="_blank">View Current Working Draft (PDF)</a>
+
+    <header>
+        <h1>From the Storm to the Fire</h1>
+        <p class="subtitle">A Memoir of Survival, Truth, and the Spaces in Between</p>
+    </header>
+
+    <main>
+        <p>
+            Welcome to the working manuscript repository for <em>From the Storm to the Fire</em> by Daniel Lingar. 
+            This digital archive serves as the central hub for the book's ongoing development, tracking structural revisions, developmental edits, and archival materials as the project moves toward completion.
+        </p>
+
+        <div class="cta-container">
+            <!-- Updated path assumes the PDF is stored inside your manuscript folder -->
+            <a href="manuscript/FROM-THE-STORM-TO-THE-FIRE-8.pdf" class="btn" target="_blank">READ CURRENT WORKING DRAFT (PDF)</a>
+        </div>
+
+        <section class="repository-sections">
+            <h3>Project Architecture</h3>
+            <ul>
+                <li><strong>/manuscript</strong> — Completed core chapters and sequential narrative tracks.</li>
+                <li><strong>/drafts</strong> — Evolutionary sketches, developmental edits, and raw chapter layouts.</li>
+                <li><strong>/appendices</strong> — Supplementary document registries, historical profiles, and source verifications.</li>
+                <li><strong>/notes</strong> — Structural roadmaps, thematic reference frameworks, and revision timelines.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2026 Daniel Lingar. All rights reserved. Managed via GitHub Pages.
+    </footer>
+
 </body>
 </html>
