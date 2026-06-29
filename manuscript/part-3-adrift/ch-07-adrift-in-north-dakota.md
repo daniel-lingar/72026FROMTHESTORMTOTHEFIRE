@@ -93,4 +93,14 @@ The storm wasn’t outside.
 
 
 It was me.
+Clinical Takeaways – Adrift in North Dakota
+
+Persistent work overload and 16-hour shifts functioned as behavioral avoidance of grief, trauma, and family loss, not as simple “work ethic” or defiance. This pattern is consistent with trauma-related overfunctioning and burnout, where the nervous system stays in chronic threat-response.
+
+Ongoing social anxiety and avoidance (late arrivals, walking around the building, shopping only at 2–3 a.m., paying others to go to stores) reflect a dysregulated nervous system and hypervigilance, not indifference or lack of responsibility. These behaviors are better understood as fight/flight/freeze responses that remained active long after the original traumas.
+
+Substance use (opioids, Suboxone, meth, alcohol) and later workaholism operated as self-medication for unprocessed trauma, depression, and anxiety, rather than “choosing drugs over family.” Research shows stress and trauma significantly increase risk for substance use and relapse, especially when core grief and nervous-system dysregulation remain untreated.
+
+The pattern of late shifts, missed mornings, and isolation should be viewed through a trauma-informed lens: they signal nervous-system overload and burnout, not a simple attitude problem. For courts, probation, or clinical teams, sustainable compliance will require structured nervous-system regulation, trauma-focused therapy, and realistic scheduling, rather than purely punitive responses.
+
 
