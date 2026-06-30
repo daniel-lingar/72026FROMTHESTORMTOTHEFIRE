@@ -118,7 +118,39 @@ Eventually, even her family tired of the chaos. After one separation, they gave 
 For a year, I stayed silent when her family called. When they visited, I hid in closets—literally becoming invisible, just like I’d learned as a kid. She kept me blocked on Facebook, status set to single, refusing to acknowledge our marriage publicly. We were legally married with four kids.
 
 And I was hiding in closets.
-
+The Trap Snaps Shut
+December 2014. The static finally broke into a siren.
+DHS showed up at the house. A neighbor was mad at Trinity and called them on us. We’d been fighting, so I’d stayed at a hotel for the weekend. Sunday morning, I went back to get some clothes. We got into it on the porch. While we were arguing, a car pulled up. A guy got out, asked who I was, and said he was with DHS. He needed me to take a drug test and show him what was in my bag.
+He said he was going to his car to get the cup. He was almost to his door when Trinity opened the front door and screamed, asking who the fuck I had at her house.
+I told her it was DHS. Told her to go talk to him.
+When she went out to yell at him, I used those thirty seconds. I went into the bedroom, pulled my gun and my drugs out of my bag, and shoved them under the dresser. I put the empty bag on the bed and sat down.
+They walked in. He handed me the cup.
+"What am I gonna find?" he asked.
+"Meth," I said.
+I took the test. He looked at the results. "It’s meth and Xanax."
+I looked at him. "Why the fuck would I be honest about meth and lie about Xanax? I don’t take Xanax."
+He didn’t care. He looked at me and said it would be in the kids' best interest if I left and never came back.
+That was the downhill. The trap snapped shut, and the system was designed so I couldn't win. Here is how it works: if one parent loses the kids but the other parent keeps them, the losing parent gets zero visitation. If we both lost them, I would have had a shot. But Trinity kept them. So I was locked out completely. I couldn’t be around my kids for a year.
+We split up. I was talking to a girl from Conway. I had my bags packed, just waiting on her to come get me.
+That’s when my wife and my mom tag-teamed me. They got me court-ordered into rehab. They thought if I was clean and sober, I wouldn’t go through with the split. I did my twenty-one days. I was pissed. I got sent off over a woman I wasn’t even with.
+When I got out, I was laying in bed at my mom’s house. The phone rang. It was Chastidy. She asked if I wanted to go watch a movie.
+Twenty minutes into that movie, that’s how we got together.
+The Longest Twenty-Four Hours
+It wasn’t a grand romance. It was just the next room to hide in after the last one burned down.
+But I got attached to Chastidy. Bad. The kind of attachment where you can’t let go, even when the floor is giving way beneath you. When she finally left me to go back to her husband, Jared, I was shipwrecked. Four days later, I drove out to their place. Jared was a good friend of mine, and we sat there and talked for hours. I went to their house that afternoon, and I didn’t end up leaving for a year and a half.
+They gave me my own room. The house was way out in the sticks. Out there, if you heard a car coming down the road, you knew it was coming for that house. I didn’t have a word for hypervigilance back then; I didn’t understand why my brain was always scanning the woodline. But the truth was, I felt calmer out there. I felt safe.
+I felt safe because of Jared.
+One day, we were riding in the car. Jared’s mom was driving, he was in the front passenger seat, and I was in the back. Some local guy—a dude three times Jared’s size—had been threatening me. Jared didn't hesitate. He called the guy right then and there from the car. I had never heard anyone get that loud in a closed vehicle before. Jared started absolutely chewing his ass, laying into him without an ounce of fear. The dude got spooked and hung up on him. Jared called right back. The guy's girlfriend answered the phone this time. She told Jared that the dude had literally gone and hid in the closet because he thought Jared was already on his way to the house.
+For the first time in my life, I felt protected. I felt like somebody else was willing to stand between me and the storm so I could finally let my guard down. At the time, I didn’t understand that dynamic. I just beat myself up and told myself I was a pussy for relying on it. But my body knew what it was doing. It was staying where the shield was.
+Trinity knew it, too. She watched the whole thing from the outside and figured out exactly how to rig the trap. Chastidy started suspecting that Jared and I were on drugs. Trinity saw her opening. She went out and bought the drug tests herself and gave them to Chastidy, knowing damn well that if I failed, Chastidy would kick me out and I’d have nowhere left to run but straight back to Trinity’s house.
+The plan worked. I took the test, and Chastidy gave me twenty-four hours to pack my shit and get out.
+Those were the longest, hardest twenty-four hours of my life. Stripping that safety away felt like being skinned alive. Trinity came and picked me up, but I refused to give her the satisfaction. The second we pulled up to her house, I had a friend waiting in the driveway to pick me up and carry me away. I wasn't going back into that cage.
+Four days passed. Jared called me up and told me Chastidy was at work, asking if I wanted to come out and hang out with him. I went. About an hour before she was scheduled to get off work, Jared looked at me and asked if I just wanted to stay the night.
+"Dude," I said. "She just kicked me out four days ago. She’s not gonna let me stay here."
+Jared called her anyway. To my surprise, she said yes.
+When we got back to the trailer, the reality hit. Chastidy told me she was converting my old bedroom for her daughter. It wasn't my room anymore. It was deep winter, freezing cold, and that trailer had zero central heat. The only warmth in the entire place was a small space heater running in their bedroom.
+Chastidy pointed to a recliner sitting right next to their bed. In front of the bed, there was a dresser with a TV and a stereo on it. She said I could sleep in the recliner.
+So I did. For the next six to nine months, I lived in that recliner. I slept right next to their bed every single night, with the TV and stereo on, just to stay near the only heat and the only protection I had left in the world.
 “I’m tired of raising you like a child,” she’d say, driving the shame deeper. My fawn response, perfected early, convinced me erasing myself was the only way to keep any kind of peace. Distrusting my own perception made her gaslighting—intentional or not—brutally effective.
 
 Those moments in closets weren’t a metaphor someone cooked up later. They were literal. Proof that my existence felt like something that needed to be managed.
