@@ -1,4 +1,4 @@
-**Chapter 19: Finding the Map in the Madness**
+**Chapter 20: Finding the Map in the Madness**
 
 A while earlier, before everything with Sarah that night, I'd made a stupid decision that nearly cost me everything. Someone had a box of junk at their place—not household trash, just random shit that looked useful. I was the type who'd haul stuff to the dump and come back with more than I left with. I said yeah, I'd take it. On the way I went through it and kept a few things instead of tossing everything.
 
