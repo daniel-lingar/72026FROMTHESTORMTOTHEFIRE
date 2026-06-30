@@ -66,15 +66,14 @@
 
 # 
 
-# \### PART VI: FORGING THE FLAME
 
-# \- Chapter 18: My Body Kept the Score
+## Part VI: Forging the Flame
 
-# \- Chapter 19: Finding the Map in the Madness
-
-# \- Chapter 20: The Complex Dance of Connection
-
-# \- Chapter 21: The Ongoing Path
+- Chapter 18: The Tailgate
+- Chapter 19: Finding the Map in the Madness
+- Chapter 20: My Body Kept the Score
+- Chapter 21: The Complex Dance of Connection
+- Chapter 22: The Ongoing Path
 
 # 
 
