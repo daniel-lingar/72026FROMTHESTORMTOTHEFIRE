@@ -1,4 +1,4 @@
-**Chapter 20: Finding the Map in the Madness**
+# Chapter 20: Finding the Map in the Madness
 
 A while earlier, before everything with Sarah that night, I'd made a stupid decision that nearly cost me everything. Someone had a box of junk at their place—not household trash, just random shit that looked useful. I was the type who'd haul stuff to the dump and come back with more than I left with. I said yeah, I'd take it. On the way I went through it and kept a few things instead of tossing everything.
 
@@ -15,5 +15,3 @@ He tore my room apart looking for the bag I already told him I burned. Found nee
 That started the longest six months of my life. I texted friends, freaking out, but nobody would talk to me. People heard there was a drug bust at my place on the main road and the silence was total. I never felt more alone. I did all the drugs, drank, partied—anything to drown the waiting. Every knock, every car slowing down, I thought this was it. Prison for something that started with a box of junk I should've never kept. Later I heard the guy had a heart attack in the woods by his house and they found the body. I never bought that story, but nothing else ever came of it.
 
 That experience showed me how fast a dumb mistake can snowball when you're already living on the edge. The investigator's mind games—the deliberate positioning, the lie about catching me, the bag color trap—were textbook ways to rattle someone. The consent form was a masterclass in pressure: sign or we bring more heat. The system doesn't need to charge you to punish you; the waiting itself is the sentence. It shattered whatever was left of my nervous system and left me raw as hell by the time Sarah pulled up that night.
-
----
