@@ -1,43 +1,90 @@
-# From the Storm to the Fire — Working Table of Contents
+# \# FROM THE STORM TO THE FIRE
 
-## Front Matter
-- Introduction
-- Preface: The Wiring
-- Prologue: The Predictive Model
+# \## Table of Contents
 
-## Part I: The Foundations
-- Chapter 1: The Storm Outside
-- Chapter 2: The Fire Ignites
+# 
 
-## Part II: Entanglement and Escalation
-- Chapter 3: Twenty Years of Static
-- Chapter 4: The Collapse and the Breaking Point
-- Bridge: Turning on the Light
+# \*\*Introduction\*\*
 
-## Part III: Adrift
-- Chapter 5: Adrift in North Dakota
+# \*\*Preface: The Wiring\*\*
 
-## Part IV: Decoding the Fire
-- Chapter 6: Shifting the Blame
-- Chapter 7: The Glass Box Blueprint
-- Chapter 8: Echoes and Amplifiers
-- Chapter 9: Reflections from the Inside
-- Chapter 10: The Rescue Boat
-- Chapter 11: The Second Wound
+# \*\*Prologue: The Predictive Model\*\*
 
-## Part V: Reckoning and Rising
-- Chapter 12: Conversations at Midnight
-- Chapter 13: Letters of Healing
-- Chapter 14: The Ember Still Burns
+# 
 
-## Part VI: Forging the Flame
-- Chapter 15: From the Wreckage to the Rising Flame
-- Chapter 16: My Body Kept the Score
-- Chapter 17: Finding the Map in the Madness
-- Chapter 18: The Complex Dance of Connection
-- Chapter 19: The Ongoing Path
+# \### PART I: THE FOUNDATIONS
 
-## Back Matter
-- Final Thought
-- Appendix A: Research Notes, Legal Timeline, and Loss List
-- Appendix B: The Mechanics — 60 Fragments from the Inside
+# \- Chapter 1: The Storm Outside
+
+# \- Chapter 2: The Fire Ignites
+
+# \- Chapter 3: Pain Takes Root
+
+# 
+
+# \### PART II: ENTANGLEMENT AND ESCALATION
+
+# \- Chapter 4: Twenty Years of Static
+
+# \- Chapter 5: The Collapse
+
+# 
+
+# \### PART III: ADRIFT
+
+# \- Chapter 6: The Breaking Point (Garrett's Loss)
+
+# \- Chapter 7: Adrift in North Dakota
+
+# 
+
+# \### PART IV: DECODING THE FIRE
+
+# \- Chapter 8: Anatomy of a Spiral (Trinity, Tina, Kristina)
+
+# \- Chapter 9: Shifting the Blame (The Bridge)
+
+# \- Chapter 10: The Glass Box Blueprint
+
+# \- Chapter 11: Echoes and Amplifiers
+
+# \- Chapter 12: The Rescue Boat
+
+# \- Chapter 13: The Second Wound
+
+# 
+
+# \### PART V: RECKONING AND RISING
+
+# \- Chapter 14: Conversations at Midnight
+
+# \- Chapter 15: Letters of Healing
+
+# \- Chapter 16: The Ember Still Burns
+
+# \- Chapter 17: From the Wreckage to the Rising Flame
+
+# 
+
+# \### PART VI: FORGING THE FLAME
+
+# \- Chapter 18: My Body Kept the Score
+
+# \- Chapter 19: Finding the Map in the Madness
+
+# \- Chapter 20: The Complex Dance of Connection
+
+# \- Chapter 21: The Ongoing Path
+
+# 
+
+# \*\*Final Thought\*\*
+
+# 
+
+# \### APPENDICES
+
+# \- Appendix A: Research Notes, Legal Timeline, and Loss List
+
+# \- Appendix B: The Mechanics — 60 Fragments from the Inside
+
