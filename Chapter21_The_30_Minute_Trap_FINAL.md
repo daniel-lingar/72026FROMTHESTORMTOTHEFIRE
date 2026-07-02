@@ -6,7 +6,7 @@ But the body does not care what story the mind tells. The body keeps score anywa
 
 ---
 
-On July 7, 2025, what should have been another warrant arrest turned into something my dominant hand still has not fully recovered from.
+On June 7, 2025, what should have been another warrant arrest turned into something my dominant hand still has not fully recovered from.
 
 It did not look dramatic from the outside. No movie scene. No beating. No blood running across the floor. Just officers, cuffs, my arm forced up behind my back, and that familiar feeling of being at the mercy of people who could leave damage behind and still call it routine.
 
@@ -62,7 +62,7 @@ The arrest lasted minutes.
 
 My hand did not.
 
-A year later — July 2026 now — I'm still trying to make a fist. Still trying to trust my own grip. Still trying to understand how something that looked routine from the outside could permanently change the way I move through the world.
+Over a year later — July 2026 now — I'm still trying to make a fist. Still trying to trust my own grip. Still trying to understand how something that looked routine from the outside could permanently change the way I move through the world.
 
 I haven't worked since. Not because I stopped trying. The hand didn't heal clean, and somewhere in the same stretch of time I also tore a rotator cuff, and the agoraphobia and the Complex PTSD didn't take a break to let the rest of it heal. I can't start a push mower. I can't start a weedeater. The pull-cord needs a grip and a shoulder I don't have anymore, and those were the two things the work was built on.
 
@@ -70,7 +70,7 @@ That's not one injury. That's four things standing on top of each other, and any
 
 Paper can record an arrest. It can log the time, the charges, the officers involved. It can reduce a body to a booking number.
 
-It cannot record what it feels like to still catch yourself flexing your right hand before you pick anything up, a year later.
+It cannot record what it feels like to still catch yourself flexing your right hand before you pick anything up, over a year later.
 
 Thirty minutes in cuffs. A lifetime of compensating.
 
