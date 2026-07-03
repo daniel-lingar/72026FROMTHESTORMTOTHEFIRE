@@ -128,6 +128,24 @@
             text-align: center;
         }
 
+        /* -------- ACCESSIBILITY -------- */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
+        }
+
+        .manuscript-link:focus {
+            outline: 2px solid #a855f7;
+            outline-offset: 2px;
+        }
+
         /* -------- RESPONSIVE -------- */
         @media (max-width: 600px) {
             body { padding: 1.5rem 1rem; }
@@ -149,7 +167,7 @@
         archival materials as the project moves toward completion.
     </p>
 
-    <a class="manuscript-link" href="https://daniel-lingar.github.io/72026FROMTHESTORMTOTHEFIRE/">
+    <a class="manuscript-link" href="https://github.com/daniel-lingar/72026FROMTHESTORMTOTHEFIRE" aria-label="View working manuscript on GitHub">
         📖 VIEW WORKING MANUSCRIPT
     </a>
 
