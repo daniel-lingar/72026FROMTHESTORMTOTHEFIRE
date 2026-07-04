@@ -4,7 +4,6 @@ When the blueprint meets the storm
 
 Understanding the Glass Box Blueprint was like finding the architect’s flawed plans under the rubble. It didn’t cause the collapse by itself. It showed where the cracks were always going to form first.
 
-A blueprint is potential. A storm is impact. What wrecked my life was the way those two kept meeting.
 
 The first echo: violence on top of glass
 The six-year-old under the blanket wasn’t just any terrified kid. He was a kid whose nervous system had already spent thirty days learning that stillness equals survival.

@@ -22,7 +22,6 @@ Fear didn’t just show up; it dug in.
 
 Freeze didn’t just happen once; it became default.
 
-The lesson wasn’t just “this house is dangerous.” It was “danger is normal, and becoming small is the only way to live through it.”
 
 The storm hit. The blueprint dictated how deep the crater went.
 
