@@ -1,136 +1,195 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>From the Storm to the Fire</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>From the Storm to the Fire · Daniel Lingar</title>
     <style>
-        :root {
-            --bg-color: #fdfdfd;
-            --text-color: #1a1a1a;
-            --accent-color: #8b0000;
-            --border-color: #e0e0e0;
-        }
-        body {
-            font-family: 'Georgia', serif;
-            line-height: 1.8;
-            max-width: 750px;
-            margin: 60px auto;
-            padding: 0 20px;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-        }
-        header {
-            border-bottom: 2px solid var(--text-color);
-            padding-bottom: 20px;
-            margin-bottom: 40px;
-            text-align: center;
-        }
-        h1 {
-            font-size: 2.5rem;
-            margin: 0 0 10px 0;
-            font-weight: normal;
-            letter-spacing: 1px;
-        }
-        .subtitle {
-            font-style: italic;
-            font-size: 1.1rem;
-            color: #555;
+        /* -------- DARK THEME · WHITE GOLD & PURPLE -------- */
+        * {
             margin: 0;
-        }
-        p {
-            font-size: 1.1rem;
-            text-align: justify;
-        }
-        .cta-container {
-            text-align: center;
-            margin: 40px 0;
-        }
-        .btn {
-            display: inline-block;
-            background: var(--text-color);
-            color: #fff;
-            padding: 12px 30px;
-            text-decoration: none;
-            border-radius: 4px;
-            font-family: sans-serif;
-            font-size: 0.95rem;
-            letter-spacing: 1px;
-            font-weight: bold;
-            transition: background 0.2s ease;
-        }
-        .btn:hover {
-            background: var(--accent-color);
-        }
-        .repository-sections {
-            margin-top: 50px;
-            border-top: 1px solid var(--border-color);
-            padding-top: 30px;
-        }
-        h3 {
-            font-family: sans-serif;
-            font-size: 1rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: #666;
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style-type: none;
             padding: 0;
+            box-sizing: border-box;
         }
-        li {
-            margin-bottom: 10px;
-            padding-left: 15px;
-            border-left: 2px solid var(--accent-color);
+
+        body {
+            background-color: #0a0a0a;
+            color: #e8dcc8;               /* white-gold base */
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.8;
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 2.5rem 1.5rem;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
-        li strong {
-            font-family: sans-serif;
-            font-size: 0.95rem;
+
+        /* -------- HEADINGS -------- */
+        h1 {
+            font-size: 2.8rem;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            color: #f2e6d0;               /* bright white-gold */
+            border-bottom: 2px solid #7b2fbe;  /* purple accent */
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.5rem;
         }
-        footer {
-            margin-top: 80px;
-            font-family: sans-serif;
-            font-size: 0.85rem;
-            color: #777;
+
+        h2 {
+            font-size: 1.6rem;
+            font-weight: 400;
+            color: #d4b896;               /* softer gold */
+            margin-top: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        h3 {
+            font-size: 1.2rem;
+            font-weight: 400;
+            color: #c4a0d4;               /* light purple */
+            margin-top: 1.5rem;
+            margin-bottom: 0.3rem;
+        }
+
+        /* -------- PARAGRAPHS & LISTS -------- */
+        p {
+            margin-bottom: 1.2rem;
+            color: #e0d4c0;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+            margin: 1.2rem 0;
+        }
+
+        ul li {
+            padding: 0.5rem 0 0.5rem 1.8rem;
+            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="%237b2fbe" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>') no-repeat left center;
+            background-size: 1.2rem;
+            color: #e0d4c0;
+            border-bottom: 1px solid #1a1a1a;
+        }
+
+        ul li:last-child {
+            border-bottom: none;
+        }
+
+        ul li strong {
+            color: #f2e6d0;
+        }
+
+        /* -------- LINKS -------- */
+        a {
+            color: #b388d4;               /* medium purple */
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.25s ease, border-bottom 0.25s ease;
+            border-bottom: 1px solid transparent;
+        }
+
+        a:hover {
+            color: #f2e6d0;               /* white-gold on hover */
+            border-bottom: 1px solid #b388d4;
+        }
+
+        /* -------- SPECIAL ELEMENTS -------- */
+        .manuscript-link {
+            display: inline-block;
+            margin: 1.8rem 0 2.2rem 0;
+            padding: 0.8rem 2.2rem;
+            background: linear-gradient(135deg, #7b2fbe, #a855f7);
+            color: #f2e6d0 !important;
+            font-weight: 600;
+            font-size: 1.2rem;
+            border-radius: 40px;
+            border: 1px solid #a855f7;
+            box-shadow: 0 0 20px rgba(123, 47, 190, 0.25);
+            transition: all 0.3s ease;
+            text-decoration: none !important;
+            border-bottom: none !important;
+        }
+
+        .manuscript-link:hover {
+            background: linear-gradient(135deg, #a855f7, #7b2fbe);
+            box-shadow: 0 0 35px rgba(123, 47, 190, 0.45);
+            transform: scale(1.02);
+            color: #ffffff !important;
+        }
+
+        .footer {
+            margin-top: 2.8rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #2a1a3a;
+            font-size: 0.9rem;
+            color: #6a5a7a;
             text-align: center;
-            border-top: 1px solid var(--border-color);
-            padding-top: 20px;
+        }
+
+        /* -------- ACCESSIBILITY -------- */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
+        }
+
+        .manuscript-link:focus {
+            outline: 2px solid #a855f7;
+            outline-offset: 2px;
+        }
+
+        /* -------- RESPONSIVE -------- */
+        @media (max-width: 600px) {
+            body { padding: 1.5rem 1rem; }
+            h1 { font-size: 2.0rem; }
+            h2 { font-size: 1.3rem; }
+            .manuscript-link { font-size: 1rem; padding: 0.6rem 1.6rem; }
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>From the Storm to the Fire</h1>
-        <p class="subtitle">A Memoir of Survival, Truth, and the Spaces in Between</p>
-    </header>
+    <h1>From the Storm to the Fire</h1>
+    <h2>A Memoir of Survival, Truth, and the Spaces in Between</h2>
 
-    <main>
-        <p>
-            Welcome to the working manuscript repository for <em>From the Storm to the Fire</em> by Daniel Lingar. 
-            This digital archive serves as the central hub for the book's ongoing development, tracking structural revisions, developmental edits, and archival materials as the project moves toward completion.
-        </p>
+    <p>
+        Welcome to the working manuscript repository for <strong>From the Storm to the Fire</strong>
+        by <strong>Daniel Lingar</strong>. This digital archive serves as the central hub for the
+        book's ongoing development, tracking structural revisions, developmental edits, and
+        archival materials as the project moves toward completion.
+    </p>
 
-        <div class="cta-container">
-            <!-- Absolute link pointing directly to the GitHub repository file tree layout -->
-            <a href="https://github.com/daniel-lingar/72026FROMTHESTORMTOTHEFIRE/tree/main/manuscript" class="btn">VIEW WORKING MANUSCRIPT</a>
-        </div>
+    <a class="manuscript-link" href="manuscript.html" aria-label="Read full manuscript">
+        📖 READ FULL MANUSCRIPT
+    </a>
 
-        <section class="repository-sections">
-            <h3>Project Architecture</h3>
-            <ul>
-                <li><strong>/manuscript</strong> — Completed core chapters and sequential narrative tracks.</li>
-                <li><strong>/drafts</strong> — Evolutionary sketches, developmental edits, and raw chapter layouts.</li>
-                <li><strong>/appendices</strong> — Supplementary document registries, historical profiles, and source verifications.</li>
-                <li><strong>/notes</strong> — Structural roadmaps, thematic reference frameworks, and revision timelines.</li>
-            </ul>
-        </section>
-    </main>
+    <a class="manuscript-link" href="summaries.html" aria-label="View chapter summaries" style="background: transparent; border: 1px solid #7b2fbe; margin-top: 0;">
+        📝 CHAPTER SUMMARIES
+    </a>
 
-    <footer>
-        &copy; 2026 Daniel Lingar. All rights reserved. Managed via GitHub Pages.
-    </footer>
+    <a class="manuscript-link" href="https://github.com/daniel-lingar/72026FROMTHESTORMTOTHEFIRE" target="_blank" rel="noopener noreferrer" aria-label="View working manuscript on GitHub" style="background: transparent; border: 1px solid #7b2fbe; margin-top: 0;">
+        💻 VIEW REPOSITORY
+    </a>
+
+    <h3>Project Architecture</h3>
+    <ul>
+        <li><strong>/manuscript</strong> — Completed core chapters and sequential narrative tracks.</li>
+        <li><strong>/drafts</strong> — Evolutionary sketches, developmental edits, and raw chapter layouts.</li>
+        <li><strong>/appendices</strong> — Supplementary document registries, historical profiles, and source verifications.</li>
+        <li><strong>/notes</strong> — Structural roadmaps, thematic reference frameworks, and revision timelines.</li>
+    </ul>
+
+    <div class="footer">
+        © 2026 Daniel Lingar. All rights reserved. &bull; Managed via GitHub Pages
+    </div>
 
 </body>
 </html>

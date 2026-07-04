@@ -1,28 +1,56 @@
-You don’t choose addiction. You choose the nearest thing that turns down the volume.
-The storm outside died down by my teens, but a raw heat flickered alive inside. Jumpy. Sharp. Mine.
-School became a pressure cooker. Hallways thick with shouts, lockers clanging, a hum that crushed my head. My hands trembled, not from drink but from people—too loud, too near. Social anxiety, I’d name it later. Back then, it was just a buzzing under the surface ready to explode. Palms wet, shirt clinging, I’d dodge their eyes, convinced every glance held judgment.
-Booze crept in early. Sips from my uncle’s cans at fourteen, a kid playing big.
-At sixteen, it roared. A cousin’s trailer, football blasting, table sticky with spills. He tossed me a Bud Light and said, “Go for it.” I didn’t stop. Beer, Zimas, a tequila shot that scorched. Two hours, all gone.
-“I drank it,” I mumbled, the room tilting.
-He jolted up. “Bullshit.”
-Nope. I woke on the bathroom floor—tile icy, head by the toilet, puke sour in my throat. “God, kill this, I’ll quit,” I croaked.
-Lie. It lit the fire. Booze dulled the shakes, made me loose. I chased it hard, desperate for the quiet it offered inside my head, the brief escape from the constant tension.
-By seventeen, it ruled. Wild Turkey and vodka, one in each hand, shots swapping, throat raw. Then blood came up. Red in the sink, ulcers clawing my gut. My own body felt like it was attacking me from the inside. I switched to beer—lighter, less pain. Headaches pulsed, a stab behind my eyes; the world swayed if I moved quick. I’d slump, can sweating in my grip, knowing it was wrecking me. But I couldn’t stop. The need to numb was stronger than the pain.
-There was a brief illusion of peace. When I was thirteen, my parents remarried. Mom and Dad patched things up, and for a minute, it felt like we’d rebuilt the wall after years of shelling. For once, home didn’t feel like a battlefield.
-But by fifteen, I was burning inside again. Quiet fire, twitchy and hot. School became a cage—crowded halls, loud voices, too many eyes. I shook like I was trying to hold back an earthquake.
-So I walked. Grabbed a GED and told everyone it was for money, for work. Half-truth. The whole truth? I just couldn’t breathe in there anymore.
+You don’t choose addiction. You choose the nearest thing that turns down the volume. The storm outside died down by my teens, but a raw heat flickered alive inside. Jumpy.
+
+Sharp. Mine. School became a pressure cooker. Hallways thick with shouts, lockers clanging, a hum that crushed my head.
+
+My hands trembled, not from drink but from people—too loud, too near. Social anxiety, I’d name it later. Back then, it was just a buzzing under the surface ready to explode. Palms wet, shirt clinging, I’d dodge their eyes, convinced every glance held judgment.
+
+Booze crept in early. Sips from my uncle’s cans at fourteen, a kid playing big. At sixteen, it roared. A cousin’s trailer, football blasting, table sticky with spills.
+
+He tossed me a Bud Light and said, “Go for it.” I didn’t stop. Beer, Zimas, a tequila shot that scorched. Two hours, all gone.
+“I drank it,” I mumbled, the room tilting. He jolted up. “Bullshit.”
+Nope.
+
+I woke on the bathroom floor—tile icy, head by the toilet, puke sour in my throat. “God, kill this, I’ll quit,” I croaked. Lie. It lit the fire. Booze dulled the shakes, made me loose.
+
+I chased it hard, desperate for the quiet it offered inside my head, the brief escape from the constant tension. By seventeen, it ruled. Wild Turkey and vodka, one in each hand, shots swapping, throat raw. Then blood came up.
+
+Red in the sink, ulcers clawing my gut. My own body felt like it was attacking me from the inside. I switched to beer—lighter, less pain. Headaches pulsed, a stab behind my eyes; the world swayed if I moved quick.
+
+I’d slump, can sweating in my grip, knowing it was wrecking me. But I couldn’t stop. The need to numb was stronger than the pain. There was a brief illusion of peace.
+
+When I was thirteen, my parents remarried. Mom and Dad patched things up, and for a minute, it felt like we’d rebuilt the wall after years of shelling. For once, home didn’t feel like a battlefield. But by fifteen, I was burning inside again.
+
+Quiet fire, twitchy and hot. School became a cage—crowded halls, loud voices, too many eyes. I shook like I was trying to hold back an earthquake. So I walked.
+
+Grabbed a GED and told everyone it was for money, for work. Half-truth. The whole truth? I just couldn’t breathe in there anymore.
+
 I moved in with my uncle—a big man, Vietnam vet, Purple Heart on the wall, cold beer always in reach. The music was good. The stories were better. I drank for free, lost in a haze that felt like home.
-Then everything broke.
-His son—my cousin, my blood—took a bullet to the head. Cops called it suicide. I didn’t buy it. No way. He smiled too much, loved too hard. But this was Johnson County, Arkansas. Three deaths in three months, all linked to the same girl, and nobody batted an eye. Just another chapter in a town that eats its own.
-After he died, I unraveled. Suicidal thoughts hit like a freight train in ’99. I spent a month in the hospital. Quit weed. Got sober. Swore I’d become a cop—get justice, dig out the truth. I interviewed at the jail, spent a few hours shadowing the day shift. At the end, the guy looked me in the eye and said, “You just want to learn the system so you can help your people when they get locked up.”
-Wrote me off like I was already dirty. That’s when I learned what small-town judgment really costs.
-Fifteen years later, I did the digging myself. We were right. It was murder. But it wasn’t Teddy—it was Johnny. Pulled the trigger while Kris, my cousin’s girlfriend, stood by. She went to the store before it happened, came back all tears and gasps, like she didn’t know. It was staged. All of it.
-My uncle shattered. Tried to take his life twice while I was just down the hall. First time it was pills scattered like confetti across the kitchen table. Second time, he put a .22 in his gut. I called my mom, barely able to speak. “I’m not right,” I choked out. First real panic attack—sweat, gasping, no air. Childhood fear, grown teeth, come back to chew.
-At seventeen, pain found a new way in.
-A migraine knocked me flat. Blinding. Nauseating. I was sprawled on the couch in the dark, whispering, “Turn the lights off.” Mom handed me a pill—hydro, something numbing.
-Thirty minutes later, I was at the sink, scrubbing dishes like I was reborn.
+
+Then everything broke. His son—my cousin, my blood—took a bullet to the head. Cops called it suicide. I didn’t buy it.
+
+No way. He smiled too much, loved too hard. But this was Johnson County, Arkansas. Three deaths in three months, all linked to the same girl, and nobody batted an eye.
+
+Just another chapter in a town that eats its own. After he died, I unraveled. Suicidal thoughts hit like a freight train in ’99. I spent a month in the hospital.
+
+Quit weed. Got sober. Swore I’d become a cop—get justice, dig out the truth. I interviewed at the jail, spent a few hours shadowing the day shift.
+
+At the end, the guy looked me in the eye and said, “You just want to learn the system so you can help your people when they get locked up.”
+Wrote me off like I was already dirty. That’s when I learned what small-town judgment really costs. Fifteen years later, I did the digging myself. We were right.
+
+It was murder. But it wasn’t Teddy—it was Johnny. Pulled the trigger while Kris, my cousin’s girlfriend, stood by. She went to the store before it happened, came back all tears and gasps, like she didn’t know.
+
+It was staged. All of it. My uncle shattered. Tried to take his life twice while I was just down the hall.
+
+First time it was pills scattered like confetti across the kitchen table. Second time, he put a .22 in his gut. I called my mom, barely able to speak. “I’m not right,” I choked out. First real panic attack—sweat, gasping, no air.
+
+Childhood fear, grown teeth, come back to chew. At seventeen, pain found a new way in. A migraine knocked me flat. Blinding.
+
+Nauseating. I was sprawled on the couch in the dark, whispering, “Turn the lights off.” Mom handed me a pill—hydro, something numbing. Thirty minutes later, I was at the sink, scrubbing dishes like I was reborn.
 “What is this?” I asked, soap dripping from my hands.
 “Kills pain. Feels good,” she said.
-I’d never touched a damn plate before—but now I was floating. The next day, I popped one before work at Western Sizzlin. Thought, This’ll make the grind bearable.
-By seventeen, I was hooked. Hydros, Tylenol 3s and 4s, Darvocets, morphine, K-pins, chewed-up fentanyl patches. Anything that numbed. Later, Roxy, straight to the vein.
-I wasn’t just silencing physical pain. I was muting the constant roar inside. That fire didn’t just burn. It consumed.
+
+I’d never touched a damn plate before—but now I was floating. The next day, I popped one before work at Western Sizzlin. Thought, This’ll make the grind bearable. By seventeen, I was hooked.
+
+Hydros, Tylenol 3s and 4s, Darvocets, morphine, K-pins, chewed-up fentanyl patches. Anything that numbed. Later, Roxy, straight to the vein. I wasn’t just silencing physical pain.
+
+I was muting the constant roar inside. That fire didn’t just burn. It consumed.
