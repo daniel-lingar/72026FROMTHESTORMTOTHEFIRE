@@ -1,4 +1,5 @@
-Chapter 21 – THE 30-MINUTE TRAP
+Chapter 20 – MY BODY KEPT THE SCORE
+(previously drafted as "The 30-Minute Trap")
 
 You can tell yourself a story about pain if you need to. You can call it temporary. You can call it soreness. You can call it one more thing that will pass if you just keep moving.
 
