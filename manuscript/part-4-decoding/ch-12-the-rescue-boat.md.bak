@@ -1,0 +1,206 @@
+Chapter 12: The Rescue Boat
+Meth didn’t make me reckless. It made me functional enough to pretend I was okay.
+
+People like to talk about meth as chaos—teeth falling out, skin picking, wild eyes, exploding lives. That happens. But there’s another version nobody likes to talk about: the quiet, hyper-functional addict. The guy who shows up, works three jobs, pays bills, cracks jokes, and only collapses when the lights go off.
+
+That was me.
+
+By the time meth showed up, my nervous system was already shredded. The NICU wiring, the losses, the pills, the Suboxone, the divorce, my mother’s death, Garrett’s death—it was all stacked. My brain was a fire alarm that never reset. Panic was a default setting. Sleep meant paralysis or screaming. Waking meant dread.
+
+Meth didn’t introduce chaos into a calm life. It introduced order into a life that already felt like it was falling apart.
+
+The Shift from Pills to Pipe
+I didn’t wake up one day and decide, “Time to blow up my life with meth.” It was a progression. Oxycodone and hydrocodone had been my first regulators—painkillers turned into noise-killers. Then came Suboxone, the “safer” addiction, the one everyone calls a step toward recovery.
+
+But recovery isn’t just switching chemicals. It’s changing the wiring. I changed chemicals. The wiring stayed.
+
+Meth stepped in when the pills and Suboxone stopped doing the job. I was drowning in depression and executive dysfunction. Simple tasks felt like cliffs. Getting out of bed was a negotiation. Paying a bill was a war. Meth turned that war down just enough that I could function.
+
+The first time I smoked, it felt like clamps coming off my brain. Thoughts cleared. Energy surged. Suddenly nothing felt impossible. Laundry. Dishes. Job applications. Cleaning. Conversations. All the things a regulated nervous system does by default now felt within reach.
+
+That is how a “rescue boat” can also be a weapon. It gets you out of the immediate flood and then starts punching holes in the hull.
+
+Meth as a Tool, Not a Demon
+We tell stories about addiction as if substances are demons that possess innocent people. That makes for good TV. It makes terrible science.
+
+Meth did not possess me. It did a job.
+
+It kept me awake when my nervous system wanted to collapse.
+
+It gave me focus when my brain was flooded.
+
+It numbed terror long enough for me to move.
+
+It made social masks easier to wear.
+
+A substance is a crude tool, not a personality in a bottle. It regulates by force what the body cannot regulate by safety.
+
+When people asked, “Why would you choose that?” the answer was simple: because everything else had already failed. Therapy without stabilization felt like digging through rubble while more rubble fell. Non-addictive meds touched some symptoms but not the core. Sleep was broken. Grief was constant. Meth turned the volume down on what was already killing me.
+
+That does not mean it was good. It means it was effective in the short term.
+
+Trauma doesn’t ask if a tool is noble. It asks if it works.
+
+Hyper-Functioning on a Broken Baseline
+On meth, I could work in ways I simply couldn’t off it. There were seasons where I was holding down jobs that would have crushed me sober.
+
+People saw the output—hours, tasks, performance—what they didn’t see was the cost. Every “productive” day came out of the same nervous system that had been wired for threat since the incubator. Meth didn’t change that wiring. It just pushed harder on it.
+
+Hyper-functioning on top of a broken baseline is like throwing more weight on a cracked bridge. It looks impressive right up until the collapse.
+
+From the outside, I looked fine:
+
+Smiling.
+
+Moving fast.
+
+Talking quick.
+
+Joking.
+
+Showing up.
+
+On the inside, my heart was a constant drum. My jaw ached. My thoughts raced. Sleep shrank. Food disappeared. The fire that had always been inside me was now being fed high-octane fuel.
+
+People praised the performance. They had no idea what was powering it.
+
+The Illusion of Getting Better
+When I stepped into The Rescue Boat—the period where meth felt like salvation—it looked like progress.
+
+Compared to years of heavy pills and daily collapse, this version of me:
+
+Was awake.
+
+Was working.
+
+Was paying things.
+
+Was talking more.
+
+Was showing up for some appointments.
+
+Was listening in therapy instead of just surviving it.
+
+I thought I had finally “gotten my life together.” The system thought the same. Fewer obvious crises. More visible effort. More compliance boxes ticked.
+
+But there is a difference between stabilization and healing:
+
+Stabilization: fewer immediate fires.
+
+Healing: the wiring under the fires changes.
+
+Meth helped me stabilize some immediate fires. It did nothing to heal the wiring.
+
+That’s the danger of functional addiction—it looks like improvement. The person is upright. The bills might be paid. The dishes might get done. The kids might see more smiles. But the nervous system is still operating under threat.
+
+When the rescue boat starts sinking, everyone is confused. “He was doing better.” No—he was doing more. Not better.
+
+The Crash After the Rescue
+Meth does not ask for a gentle exit. It demands a crash.
+
+As my use deepened, the short-term regulation gains started costing more:
+
+Sleep became shorter and sharper.
+
+Anxiety came back with teeth.
+
+Depression arrived with humiliation.
+
+Paranoia crept in.
+
+Executive function fell apart again.
+
+The very tool that made tasks possible began tearing the scaffolding down faster than I could rebuild it.
+
+Missed shifts came back. Missed appointments. That familiar, sick dread of the phone. The legal system didn’t see the physiology; it saw the calendar and the docket. It saw absence where it expected presence.
+
+From the outside:
+
+“He’s backsliding.”
+
+“He’s being irresponsible.”
+
+“He’s throwing away his progress.”
+
+From the inside:
+
+My nervous system had hit the wall.
+
+The rescue boat had become another sinking ship.
+
+Shame flooded in.
+
+Addiction doesn’t leave quietly. It leaves by dragging you through guilt, humiliation, and loss. Meth was no exception.
+
+The crash wasn’t a moral failure. It was a nervous system finally collapsing under the weight of a regulator that had outlived its usefulness.
+
+Why This Matters for How We Read Addiction
+If you only look at the legal file, it looks like this:
+
+Man uses meth.
+
+Man gets chaotic.
+
+Man misses court.
+
+Man loses things.
+
+If you only look at the family impact, it looks like this:
+
+Dad is unreliable.
+
+Dad breaks promises.
+
+Dad disappears.
+
+Both sets of data are real. Harm is real.
+
+But if you don’t also look at the nervous system, you miss why the tool was chosen and why the crash plays out the way it does.
+
+Addiction, especially in complex trauma, is almost always doing something useful in the short term:
+
+It shuts down unbearable sensations.
+
+It makes impossible tasks feel possible.
+
+It gives confidence where the system feels worthless.
+
+It creates an artificial sense of connection or power.
+
+Those short-term “wins” are not imaginary. They are why people keep using even when they know the long-term cost.
+
+You cannot treat addiction in a trauma-wired nervous system by only threatening consequences. If the tool is doing a job the person cannot yet do themselves, they will cling to it until something more stable exists.
+
+A rescue boat is only safe if there is somewhere solid to land.
+
+The Rescue Boat, Retired
+The chapter called “The Rescue Boat” isn’t a celebration of meth. It’s an honest record of how a substance became a temporary lifeline—and why that lifeline had to be cut.
+
+Retiring meth wasn’t just about willpower or discipline. It was about:
+
+Building safer forms of regulation.
+
+Learning how to feel small amounts of distress without sprinting for the pipe.
+
+Naming shame before it turned into secrecy.
+
+Allowing collapse to be seen so it didn’t have to be hidden.
+
+Finding environments where my nervous system wasn’t constantly set on fire.
+
+It was about understanding the job the drug had been doing and then slowly, painfully building legitimate tools to do that job instead:
+
+Breath work and grounding.
+
+Sleep scaffolding.
+
+Realistic workloads.
+
+Systems that understand freeze, not just compliance.
+
+Relationships that could co-regulate instead of just watch me burn.
+
+Meth was never repair. It was a crude brace on a shattered frame.
+
+The real rescue boat wasn’t the drug. It was the slow, unglamorous work of building a life where my nervous system could finally stop bracing for impact.
+

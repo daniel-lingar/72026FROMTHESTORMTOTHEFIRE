@@ -5,7 +5,7 @@ People like to talk about meth as chaos—teeth falling out, skin picking, wild 
 
 That was me.
 
-By the time meth showed up, my nervous system was already shredded. The NICU wiring, the losses, the pills, the Suboxone, the divorce, my mother’s death, Garrett’s death—it was all stacked. My brain was a fire alarm that never reset. Panic was a default setting. Sleep meant paralysis or screaming. Waking meant dread.
+By the time meth showed up, I was already shredded. The NICU wiring, the losses, the pills, the Suboxone, the divorce, my mother’s death, Garrett’s death—it was all stacked. My brain was a fire alarm that never reset. Panic was a default setting. Sleep meant paralysis or screaming. Waking meant dread.
 
 Meth didn’t introduce chaos into a calm life. It introduced order into a life that already felt like it was falling apart.
 
@@ -91,7 +91,7 @@ Healing: the wiring under the fires changes.
 
 Meth helped me stabilize some immediate fires. It did nothing to heal the wiring.
 
-That’s the danger of functional addiction—it looks like improvement. The person is upright. The bills might be paid. The dishes might get done. The kids might see more smiles. But the nervous system is still operating under threat.
+That’s the danger of functional addiction—it looks like improvement. The person is upright. The bills might be paid. The dishes might get done. The kids might see more smiles. But the I am still operating under threat.
 
 When the rescue boat starts sinking, everyone is confused. “He was doing better.” No—he was doing more. Not better.
 
