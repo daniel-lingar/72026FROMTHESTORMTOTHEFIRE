@@ -1,0 +1,23 @@
+Chapter 14: Conversations at Midnight
+The silence of the late hours hits different when you’ve spent the entire day performing normal.
+One of those nights where the walls feel closer, the quiet gets loud, and you reach for something—anything—to untangle the wires in your head. What starts as a quiet exchange with yourself turns into a reckoning. No audience. No script. Just the truth, stripped bare.
+It started with trying to connect. I poured months into a video. Creativity, energy, everything I had left. I showed it to the people I cared about most.
+Silence.
+Teaguen said he had no time. Shayla brushed it off like it didn’t matter.
+Then the songs. Written for her. Better than the noise on the radio. Meant to say what I couldn’t out loud. Unheard. Unacknowledged.
+That hurt. Not because of the work. Because of what it meant. A need to be seen. To be understood. To matter.
+My brain twisted the indifference into proof. You don’t matter. You’re too much. You’re broken. That old tape, playing on loop. I started believing it. Again. The predictive model took over: See? The glass box was right. Connection is unsafe. They are going to leave.
+But as I spoke—actually spoke, out loud to the empty room—something shifted.
+Vulnerability isn’t weakness. It’s exposure. And exposure is how you stop lying to yourself. My tears weren’t failure. My need for connection wasn’t pathetic. They were just proof the nervous system hadn’t flatlined yet.
+I talked about the loops. The way my mind traps me in fear, tells me not to reach out, not to risk dragging someone else into the smoke. It’s the blueprint again: Shut down before they leave. Protect yourself by disappearing first.
+There’s a woman I wanted to talk to. She seemed interested. My brain screamed: Abort. You’ll ruin it. You’ll hurt her. Walk away.
+So I did. I broke my own heart trying to save hers.
+It’s hard to admit that. Hard to sit with the shame of a forty-two-year-old man fighting invisible battles, crying too often, asking for space to breathe and getting indifference. Three people last year told me I didn’t matter. For a while, I believed them.
+But tonight’s silence reminded me: emotions aren’t flaws. They’re data. They’re proof I’m still processing. Still human. Still in the fight.
+The guilt eats at me, especially with the kids. I’m torn between begging for their love and building a wall so the next rejection doesn’t crack my ribs. I wonder if moving forward means pretending they never existed. If that’s the only way to stop the bleeding.
+I can’t. The heart doesn’t work like that. It still beats for them. Even in absence. Even in silence.
+So how do you keep going?
+Maybe the answer lives in the space between surrender and stubbornness. Between grief and refusal. Moving forward doesn’t mean erasing them or the damage. It means learning to carry both without letting either crush you. Building a life where love, regret, healing, and hope can share the same room.
+Tonight, I reminded myself: I’m not perfect. I’m trying. I’m flawed. I’m real. And even in the dark, there’s light in the willingness to look. Strength in the refusal to quit. Hope in the parts that still want to connect.
+This isn’t just reflection. It’s a contract with myself.
+To keep fighting. To keep creating. To keep loving, even when it’s hard. To keep going.
