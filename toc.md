@@ -26,7 +26,7 @@
 
 ### PART IV: DECODING THE FIRE
 
-- Chapter 8: Anatomy of a Spiral (my ex-wife, Tina, Kristina)
+- Chapter 8: Anatomy of a Spiral (my ex-wife, an earlier partner, a later partner)
 - Chapter 9: Shifting the Blame (The Bridge)
 - Chapter 10: The Glass Box Blueprint
 - Chapter 11: Echoes and Amplifiers

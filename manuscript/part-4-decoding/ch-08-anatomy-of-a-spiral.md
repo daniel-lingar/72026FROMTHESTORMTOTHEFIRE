@@ -1,8 +1,8 @@
 Chapter 8: Anatomy of a Spiral
-my ex-wife, Tina, Kristina — Dissecting the Damage
+my ex-wife, an earlier partner, a later partner — Dissecting the Damage
 This wasn’t three love stories. It was one wound wearing three different faces. For years, I kept those names in separate boxes so I wouldn’t have to look at the pattern straight on. my ex-wife was the marriage.
 
-Tina was the escape. Kristina was the mind game. Three different women. Three different disasters.
+An earlier partner was the escape. A later partner was the mind game. Three different women. Three different disasters.
 
 Three different explanations for why everything in my life kept catching fire. That version was easier to live with because it let me keep pretending each wreck was self-contained. If every collapse belonged to a different room, then maybe there was no architecture connecting them. Maybe I was just unlucky.
 
@@ -43,14 +43,14 @@ The closet was not a symbol I invented later. It was a room my nervous system re
 
 Refined it. Confirmed it. By the end, the worst thing the marriage had taken from me was not peace. It was trust in my own perceptions.
 
-And when a man stops trusting his own perceptions, he becomes easy to steer. Tina: The Starvation Hook
-By the time Tina entered the picture, I was not making decisions from stability. I was making them from collapse. People talk about love like it happens on neutral ground.
+And when a man stops trusting his own perceptions, he becomes easy to steer. An earlier partner: The Starvation Hook
+By the time an earlier partner entered the picture, I was not making decisions from stability. I was making them from collapse. People talk about love like it happens on neutral ground.
 
 But a lot of what gets called love does not begin in clarity. Sometimes it begins in emergency. Sometimes it begins when somebody has been starving so long that relief itself starts to feel sacred. That was the condition I was in.
 
 I was carrying years of shame, an addiction that had become a regulator, and the growing terror of losing my family structure. I was not looking at the world with a steady nervous system and asking who was healthy for me. I was gasping for something that did not feel like drowning. When a person enters your life at that exact point, your body does not calmly assess them.
 
-It lunges. That is what Tina became to me. Not because she was magic. But because she arrived in the middle of collapse, and collapse changes the meaning of attention.
+It lunges. That is what an earlier partner became to me. Not because she was magic. But because she arrived in the middle of collapse, and collapse changes the meaning of attention.
 
 A person who makes room for you when you feel erased can look like salvation. A person who listens when you feel disbelieved can look like destiny. When you are emotionally starving, relief can feel like love. I didn’t bond from steadiness.
 
@@ -58,14 +58,14 @@ I bonded from panic. The part of me attaching was not the calm adult evaluating 
 
 The part that believed one more loss might split me open for good. That kind of attachment always carries distortion with it. Attention gets overread. Availability gets romanticized.
 
-Relief gets mistaken for compatibility. The body says, “I can breathe here,” and the mind rushes to build a future around that first exhale. I made Tina larger than reality because I needed her to be larger than reality. I needed the connection to mean something big enough to justify the risk, the disloyalty, the rupture.
+Relief gets mistaken for compatibility. The body says, “I can breathe here,” and the mind rushes to build a future around that first exhale. I made an earlier partner larger than reality because I needed her to be larger than reality. I needed the connection to mean something big enough to justify the risk, the disloyalty, the rupture.
 
 I needed the story to be rescue, because if it wasn’t rescue, then maybe it was just another symptom of how desperate I had become. Desperation can make a person feel profound. Not because the feelings are fake, but because urgency amplifies everything. A starving nervous system is not a reliable narrator.
 
-It can take a little bit of warmth and turn it into revelation. I don’t say that to cheapen what Tina was. I say it to tell the truth about what I was. I was not choosing from freedom.
+It can take a little bit of warmth and turn it into revelation. I don’t say that to cheapen what an earlier partner was. I say it to tell the truth about what I was. I was not choosing from freedom.
 
-I was choosing from fear. And fear, when it is dressed up like hope, can be one of the most convincing forces in the world. Kristina: The Hall of Mirrors
-Kristina hit different because she landed where my mind was weakest. If my ex-wife had trained me to doubt myself, and Tina had met me in raw need, Kristina stepped into the territory where being seen and being studied started to blur.
+I was choosing from fear. And fear, when it is dressed up like hope, can be one of the most convincing forces in the world. A later partner: The Hall of Mirrors
+A later partner hit different because she landed where my mind was weakest. If my ex-wife had trained me to doubt myself, and an earlier partner had met me in raw need, a later partner stepped into the territory where being seen and being studied started to blur.
 
 What pulled me in first was recognition. She seemed to understand things that mattered to me. Reflected interests back at me. Mirrored emotional language in ways that made the connection feel unusually specific.
 
@@ -83,7 +83,7 @@ I kept returning to the very dynamic that was intensifying the confusion in hope
 
 I brought my own fire into that room. I brought obsession, projection, savior-hunger, abandonment terror, and the impossible demand that another person help me organize pain that had started decades before they arrived. No relationship can safely carry that much historical weight. When it tries, the structure warps.
 
-Kristina did not create the belief that I was fundamentally broken. She touched it. That was enough. Once that belief gets activated, everything grows larger than the facts.
+A later partner did not create the belief that I was fundamentally broken. She touched it. That was enough. Once that belief gets activated, everything grows larger than the facts.
 
 The present gets drowned by all the rooms it accidentally opened. The Spiral
 For a long time, I used these women like evidence in a trial. See? That’s why I used.
@@ -95,7 +95,7 @@ When I felt unseen, I latched onto whoever made me feel recognized.
 
 When I felt threatened with abandonment, I reached like separation might kill me. When I got confused, I assumed I was defective. When shame flared, I hid. When panic rose past what my body could regulate, I used.
 
-When using created more shame, I hid harder. That is the spiral. my ex-wife, Tina, and Kristina were not separate detours from the same life. They were three expressions of the same unresolved system trying, failing, and trying again to solve pain through attachment.
+When using created more shame, I hid harder. That is the spiral. my ex-wife, an earlier partner, and a later partner were not separate detours from the same life. They were three expressions of the same unresolved system trying, failing, and trying again to solve pain through attachment.
 
 What made the spiral so destructive was not just who entered these rooms, but what was already waiting inside them. Old trauma, shame, invalidation, and unregulated fear turned each connection into a test it was never built to pass. For most of my life, I only knew how to think in extremes: it is all their fault or it is all mine. Neither one gets close enough to the truth to be useful.
 

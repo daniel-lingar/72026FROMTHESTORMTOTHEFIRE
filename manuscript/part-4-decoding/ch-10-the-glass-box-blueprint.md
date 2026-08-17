@@ -12,7 +12,7 @@ Anxiety & Stress: Higher likelihood of anxiety disorders, easier overwhelm. Mood
 
 Attachment: Increased rates of insecure attachment, fear of abandonment, relational distrust. Sensory Processing: Hypersensitivity to noise, light, crowds. Physical Health: Higher long-term risk for hypertension, metabolic syndrome, altered pain thresholds. My life has been a highlight reel of trauma hitting these exact vulnerabilities.
 
-Witnessing domestic violence as a kid. Losing people I loved. The toxic twenty years with my ex-wife. The manipulative nightmare with Kristina.
+Witnessing domestic violence as a kid. Losing people I loved. The toxic twenty years with my ex-wife. The manipulative nightmare with a later partner.
 
 The severe anxiety, depression, and addiction weren’t random. They were echoes of that early fight, amplified. My panic attacks starting at seventeen, the sensory overload driving me into isolation—it all connects back to that initial stress, that overwhelming environment. It became a feedback loop.
 

@@ -14,7 +14,7 @@ If I wasn’t broken, what did that make my twenty-year marriage? What did it ma
 
 But truth doesn’t live in the extremes. It lives in the messy middle. my ex-wife did turn my kids against me. She did use them as leverage.
 
-She did make me feel invisible in my own home, hiding me in closets like I was something to be ashamed of. Kristina did gaslight me. She did pull me in, then push me away, over and over, until I truly thought I’d lost my grip on reality. And yet...
+She did make me feel invisible in my own home, hiding me in closets like I was something to be ashamed of. A later partner did gaslight me. She did pull me in, then push me away, over and over, until I truly thought I’d lost my grip on reality. And yet...
 
 somewhere deep down, I still felt something for them. Not trust. Not longing. Something softer than hate.
 
@@ -29,7 +29,7 @@ The one rewriting his own story because the old script no longer fits. The black
 Real life is full of people who are flawed, faltering, and scared. People who hurt each other not because they’re monsters, but because they’re broken, or never taught how to love without controlling. Albert Ellis put it plainly: “People are fallible. Accept it.”
 That includes my ex-wife.
 
-That includes Kristina. That includes me. Maybe I’ll never get my kids back on the terms I used to imagine. Maybe the damage runs too deep for full repair right now.
+That includes a later partner. That includes me. Maybe I’ll never get my kids back on the terms I used to imagine. Maybe the damage runs too deep for full repair right now.
 
 But remembering I still have a heart means I can start living like I do. Not for them. Not for her. For me.
 

@@ -26,7 +26,7 @@ People yelling my name.
 
 I couldn’t.
 
-Mom was on the floor. Falon grabbed her. Tina called 911. The living room filled with paramedics.
+Mom was on the floor. Falon grabbed her. An earlier partner called 911. The living room filled with paramedics.
 
 “Who am I?” my sister asked.
 
