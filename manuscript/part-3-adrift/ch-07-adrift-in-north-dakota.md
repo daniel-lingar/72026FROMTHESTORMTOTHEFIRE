@@ -12,7 +12,7 @@ The opiate addiction that started when I was seventeen had changed shape around 
 
 
 
-When Trinity took the kids, the house emptied out in a way that felt physical. Four bedrooms reduced to echoes. I couldn’t afford it alone. Didn’t need the space anyway. I slept on a buddy’s floor for a while, my life compressed down to whatever could fit beside a mattress and a pipe.
+When my ex-wife took the kids, the house emptied out in a way that felt physical. Four bedrooms reduced to echoes. I couldn’t afford it alone. Didn’t need the space anyway. I slept on a buddy’s floor for a while, my life compressed down to whatever could fit beside a mattress and a pipe.
 
 
 

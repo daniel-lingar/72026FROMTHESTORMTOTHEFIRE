@@ -10,9 +10,9 @@ I wrote pages trying to rationalize it. I told the world: This is why I am the w
 She manipulated you.”
 The floor dropped. Again. At first, relief. Then the guilt hit hard.
 
-If I wasn’t broken, what did that make my twenty-year marriage? What did it make all the times I pointed the finger at Trinity, blaming her control, her coldness, her emotional games for the wreckage? If I wasn’t fundamentally damaged, maybe I was the architect. Maybe I burned it down.
+If I wasn’t broken, what did that make my twenty-year marriage? What did it make all the times I pointed the finger at my ex-wife, blaming her control, her coldness, her emotional games for the wreckage? If I wasn’t fundamentally damaged, maybe I was the architect. Maybe I burned it down.
 
-But truth doesn’t live in the extremes. It lives in the messy middle. Trinity did turn my kids against me. She did use them as leverage.
+But truth doesn’t live in the extremes. It lives in the messy middle. my ex-wife did turn my kids against me. She did use them as leverage.
 
 She did make me feel invisible in my own home, hiding me in closets like I was something to be ashamed of. Kristina did gaslight me. She did pull me in, then push me away, over and over, until I truly thought I’d lost my grip on reality. And yet...
 
@@ -27,7 +27,7 @@ I buried it under rage, grief, and self-protection. Tried to kill it with silenc
 The one rewriting his own story because the old script no longer fits. The black-and-white thinking told me they’re either good or evil, and I’m either the villain or the victim. That’s not real life. That’s trauma talking.
 
 Real life is full of people who are flawed, faltering, and scared. People who hurt each other not because they’re monsters, but because they’re broken, or never taught how to love without controlling. Albert Ellis put it plainly: “People are fallible. Accept it.”
-That includes Trinity.
+That includes my ex-wife.
 
 That includes Kristina. That includes me. Maybe I’ll never get my kids back on the terms I used to imagine. Maybe the damage runs too deep for full repair right now.
 

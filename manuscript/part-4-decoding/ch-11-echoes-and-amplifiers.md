@@ -55,7 +55,7 @@ That’s amplification too. The blueprint’s vulnerability to overwhelm made th
 Relationships as collision points
 The blueprint suggested insecure attachment and deep fear of abandonment. Real life gave it practice material.
 
-With Trinity, the fear wasn’t theoretical. The kids became leverage. Every threat to kick me out or cut off access hit the exact place the incubator had carved—connection as fragile, conditional, easily revoked. Hiding in closets wasn’t drama; it was the blueprint in action: disappear to preserve whatever attachment is left.
+With my ex-wife, the fear wasn’t theoretical. The kids became leverage. Every threat to kick me out or cut off access hit the exact place the incubator had carved—connection as fragile, conditional, easily revoked. Hiding in closets wasn’t drama; it was the blueprint in action: disappear to preserve whatever attachment is left.
 
 Her dismissal after Garrett’s death—“Shut up. I have to work tomorrow.”—did more than hurt. It confirmed the oldest fear:
 

@@ -4,7 +4,7 @@ Chapter 4: Twenty Years of Static
 At seventeen, a stupid bet changed everything. My cousin and I were pushing each other hard at the steakhouse—racing in the dish pit, competing on the line, counting send-backs like battle scars. One Sunday, he swaggered in talking about some girl he'd spent the weekend with.
 
 Teenage arrogance kicked in.
-"I'll have her attention by Wednesday," I shot back. Twenty years, four kids, and a wrecked marriage later, it turns out I won that bet. I wish I'd lost it. At first, Trinity was just a challenge.
+"I'll have her attention by Wednesday," I shot back. Twenty years, four kids, and a wrecked marriage later, it turns out I won that bet. I wish I'd lost it. At first, my ex-wife was just a challenge.
 
 Something to prove. If I said I was working, I'd drive ten miles out of town to shoot hoops at some random park. She'd show up anyway. Parties, friends' houses—someone would always come get me.
 "She's outside.
@@ -12,12 +12,11 @@ Something to prove. If I said I was working, I'd drive ten miles out of town to 
 Drunk. Determined."
 Three months in, she told me she was pregnant. My gut knew this wasn't love. But it was responsibility.
 
-My kid deserved something better than what I'd grown up with. So I went into overdrive—two jobs, grinding until we had a paid-off trailer and a car with no payments. On August 10, 2002, our first child, Maverick, was born. We were still in Clarksville, trying to build a family on top of a fault line.
+My kid deserved something better than what I'd grown up with. So I went into overdrive—two jobs, grinding until we had a paid-off trailer and a car with no payments. On August 10, 2002, our first child, one of my children, was born. We were still in Clarksville, trying to build a family on top of a fault line.
 
-Less than a year later, on June 7, 2003, Shayla came. Only after Shayla was born did we move to Little Rock, where I juggled college and full-time work, trying to build something solid with two kids already here and a nervous system I didn't understand. The next twenty years ran on a loop:
-Break up. Crash back together.
+Less than a year later, on June 7, 2003, my children came. Only after was born did we move to Little Rock, where I juggled college and full-time work, trying to build something solid with two kids already here and a nervous system I didn't understand. The next twenty years ran on a loop: Break up. Crash back together.
 
-Love twisted with wreckage. Repeat. Even when we were apart, it never stopped burning. Trinity learned where my soft spots were.
+Love twisted with wreckage. Repeat. Even when we were apart, it never stopped burning. my ex-wife learned where my soft spots were.
 
 The kids became weapons. Step out of line and she'd threaten to kick me out. The thought of losing them wasn't just heartbreak. It was annihilation—another abandonment my nervous system couldn't survive.
 
@@ -44,7 +43,7 @@ Weaponized the kids. I learned fast: don't bring pain here. That kind of rejecti
 
 Maybe that's why I drank the way I did. Or maybe that was just the lie I told myself to keep from screaming. Looking back now—with therapy and brutal self-examination behind me—I can see what I couldn't then. I saw her control, her cruelty, my weakness for staying.
 
-I didn't see my nervous system, wired for constant alarm since infancy—from NICU trauma, childhood chaos, and a lifetime of hypervigilance. I was living with undiagnosed CPTSD and no language for why everything felt like a threat. In 2020, Trinity was working as a nurse, so I went to her doctor, a woman she trusted. Trinity told her I was bipolar.
+I didn't see my nervous system, wired for constant alarm since infancy—from NICU trauma, childhood chaos, and a lifetime of hypervigilance. I was living with undiagnosed CPTSD and no language for why everything felt like a threat. In 2020, my ex-wife was working as a nurse, so I went to her doctor, a woman she trusted. my ex-wife told her I was bipolar.
 
 I didn't correct it. I was hiding a meth addiction and assumed the chaos in my head was chemical, self-inflicted: mood swings, agitation, crashes. I thought it was the drugs. So I stayed quiet.
 
@@ -78,11 +77,11 @@ After one separation, they gave her an ultimatum: take him back or we're done he
 She kept me blocked on Facebook, status set to single, refusing to acknowledge our marriage publicly. We were legally married with four kids. And I was hiding in closets. The Trap Snaps Shut
 December 2014.
 
-The static finally broke into a siren. DHS showed up at the house. A neighbor was mad at Trinity and called them on us. We'd been fighting, so I'd stayed at a hotel for the weekend.
+The static finally broke into a siren. DHS showed up at the house. A neighbor was mad at my ex-wife and called them on us. We'd been fighting, so I'd stayed at a hotel for the weekend.
 
 Sunday morning, I went back to get some clothes. We got into it on the porch. While we were arguing, a car pulled up. A guy got out, asked who I was, and said he was with DHS.
 
-He needed me to take a drug test and show him what was in my bag. He said he was going to his car to get the cup. He was almost to his door when Trinity opened the front door and screamed, asking who the fuck I had at her house. I told her it was DHS.
+He needed me to take a drug test and show him what was in my bag. He said he was going to his car to get the cup. He was almost to his door when my ex-wife opened the front door and screamed, asking who the fuck I had at her house. I told her it was DHS.
 
 Told her to go talk to him. When she went out to yell at him, I used those thirty seconds. I went into the bedroom, pulled my gun and my drugs out of my bag, and shoved them under the dresser. I put the empty bag on the bed and sat down.
 
@@ -94,7 +93,7 @@ I looked at him. "Why the fuck would I be honest about meth and lie about Xanax?
 I don't take Xanax."
 He didn't care. He looked at me and said it would be in the kids' best interest if I left and never came back. That was the downhill. The trap snapped shut, and the system was designed so I couldn't win.
 
-Here is how it works: if one parent loses the kids but the other parent keeps them, the losing parent gets zero visitation. If we both lost them, I would have had a shot. But Trinity kept them. So I was locked out completely.
+Here is how it works: if one parent loses the kids but the other parent keeps them, the losing parent gets zero visitation. If we both lost them, I would have had a shot. But my ex-wife kept them. So I was locked out completely.
 
 I couldn't be around my kids for a year. We split up. I was talking to a girl from Conway. I had my bags packed, just waiting on her to come get me.
 
@@ -121,11 +120,11 @@ The guy's girlfriend answered the phone this time. She told Jared that the dude 
 
 At the time, I didn't understand that dynamic. I just beat myself up and told myself I was a pussy for relying on it. But my body knew what it was doing. It was staying where the shield was.
 
-Trinity knew it, too. She watched the whole thing from the outside and figured out exactly how to rig the trap. Chastidy started suspecting that Jared and I were on drugs. Trinity saw her opening.
+my ex-wife knew it, too. She watched the whole thing from the outside and figured out exactly how to rig the trap. Chastidy started suspecting that Jared and I were on drugs. my ex-wife saw her opening.
 
-She went out and bought the drug tests herself and gave them to Chastidy, knowing damn well that if I failed, Chastidy would kick me out and I'd have nowhere left to run but straight back to Trinity's house. The plan worked. I took the test, and Chastidy gave me twenty-four hours to pack my shit and get out. Those were the longest, hardest twenty-four hours of my life.
+She went out and bought the drug tests herself and gave them to Chastidy, knowing damn well that if I failed, Chastidy would kick me out and I'd have nowhere left to run but straight back to my ex-wife's house. The plan worked. I took the test, and Chastidy gave me twenty-four hours to pack my shit and get out. Those were the longest, hardest twenty-four hours of my life.
 
-Stripping that safety away felt like being skinned alive. Trinity came and picked me up, but I refused to give her the satisfaction. The second we pulled up to her house, I had a friend waiting in the driveway to pick me up and carry me away. I wasn't going back into that cage.
+Stripping that safety away felt like being skinned alive. my ex-wife came and picked me up, but I refused to give her the satisfaction. The second we pulled up to her house, I had a friend waiting in the driveway to pick me up and carry me away. I wasn't going back into that cage.
 
 Four days passed. Jared called me up and told me Chastidy was at work, asking if I wanted to come out and hang out with him. I went. About an hour before she was scheduled to get off work, Jared looked at me and asked if I just wanted to stay the night.
 "Dude," I said. "She just kicked me out four days ago.

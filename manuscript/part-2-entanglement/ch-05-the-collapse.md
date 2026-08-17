@@ -2,7 +2,7 @@ Chapter 5
 The Collapse
 By 2020, the fire had eaten everything.
 
-Trinity took the kids—Maverick, Shayla, Teaguen, Adalee—and left the four-bedroom house hollow. I couldn’t afford it alone. Didn’t need the space anyway. I moved in with a buddy, mattress on his floor, my life compressed down to whatever fit beside it. The meth pipe stayed within reach. My skin crawled. My teeth chattered. Smoke kept me upright—barely.
+my ex-wife took the kids—my children—and left the four-bedroom house hollow. I couldn’t afford it alone. Didn’t need the space anyway. I moved in with a buddy, mattress on his floor, my life compressed down to whatever fit beside it. The meth pipe stayed within reach. My skin crawled. My teeth chattered. Smoke kept me upright—barely.
 
 What started around September 2020 hardened into a pattern: daily use, broken only by short, fragile attempts at sobriety that never lasted more than a couple of weeks. I hadn’t taken psychiatric medication since before COVID. I quit all of it abruptly, around the same time everything else fell apart. I told myself I was managing.
 
@@ -54,7 +54,7 @@ They told me to sit up front.
 
 My boots stayed planted. Meth buzzing. Too far gone to feel it right. My brother was dead at thirty-two. Now my mom. Loss stacked on loss until I couldn’t tell where grief ended and numbness began.
 
-I’d tried rehab before. In 2019, I walked out after two weeks. My first call was from Trinity—bills, kids, stress. I thought leaving was what she wanted. Later she said it wasn’t.
+I’d tried rehab before. In 2019, I walked out after two weeks. My first call was from my ex-wife—bills, kids, stress. I thought leaving was what she wanted. Later she said it wasn’t.
 
 In 2024, I checked myself in again. Three days later, I was medically discharged. Sleep apnea. No CPAP. Another failed attempt.
 

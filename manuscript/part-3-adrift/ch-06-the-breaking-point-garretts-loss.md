@@ -91,7 +91,7 @@ Saturday morning in Kansas City felt normal until it didn’t.
 
 I was sitting in the U-Haul when Greg came out and told me I had a phone call. I followed him into the house. Someone handed me the phone.
 
-It was Trinity.
+It was my ex-wife.
 
 “Garrett’s gone,” she said. “He’s dead. There was a wreck.”
 

@@ -8,7 +8,7 @@ They are to be inserted as either **Openers** (italicized, centered at the top o
   - **OPENER:** *"The NICU didn’t just keep me alive. It taught my nervous system that connection means wires, alarms, and glass."*
 - **Chapter 2: The Fire Ignites** (Early Addiction)
   - **OPENER:** *"You don’t choose addiction. You choose the nearest thing that turns down the volume."*
-- **Chapter 4: Twenty Years of Static** (Trinity & The Closets)
+- **Chapter 4: Twenty Years of Static** (my ex-wife & The Closets)
   - **CLOSER:** *"Hiding in closets wasn’t symbolism. It was embodiment. My nervous system finally had a physical shape for how I felt inside."*
 
 ## Part III: Adrift

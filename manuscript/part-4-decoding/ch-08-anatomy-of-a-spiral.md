@@ -1,6 +1,6 @@
 Chapter 8: Anatomy of a Spiral
-Trinity, Tina, Kristina — Dissecting the Damage
-This wasn’t three love stories. It was one wound wearing three different faces. For years, I kept those names in separate boxes so I wouldn’t have to look at the pattern straight on. Trinity was the marriage.
+my ex-wife, Tina, Kristina — Dissecting the Damage
+This wasn’t three love stories. It was one wound wearing three different faces. For years, I kept those names in separate boxes so I wouldn’t have to look at the pattern straight on. my ex-wife was the marriage.
 
 Tina was the escape. Kristina was the mind game. Three different women. Three different disasters.
 
@@ -12,8 +12,8 @@ The damage took different shapes. But the wound underneath was the same. Every o
 
 I moved because I was repeating. I was carrying the same raw wiring into different rooms and calling each fire by a different name. This chapter is not a blame list. It is not a courtroom.
 
-It is not a plea for sympathy. It is an autopsy. Trinity: The Training Ground
-Trinity was not the beginning of my damage, but she became the longest environment my damage ever lived in. When I met her, I was still young enough to confuse responsibility with readiness.
+It is not a plea for sympathy. It is an autopsy. my ex-wife: The Training Ground
+my ex-wife was not the beginning of my damage, but she became the longest environment my damage ever lived in. When I met her, I was still young enough to confuse responsibility with readiness.
 
 A pregnancy came fast, and the part of me that had grown up around chaos latched onto the idea that I could outrun my own instability by building something solid on the outside. Work hard. Pay bills. Get the trailer.
 
@@ -65,7 +65,7 @@ I needed the story to be rescue, because if it wasn’t rescue, then maybe it wa
 It can take a little bit of warmth and turn it into revelation. I don’t say that to cheapen what Tina was. I say it to tell the truth about what I was. I was not choosing from freedom.
 
 I was choosing from fear. And fear, when it is dressed up like hope, can be one of the most convincing forces in the world. Kristina: The Hall of Mirrors
-Kristina hit different because she landed where my mind was weakest. If Trinity had trained me to doubt myself, and Tina had met me in raw need, Kristina stepped into the territory where being seen and being studied started to blur.
+Kristina hit different because she landed where my mind was weakest. If my ex-wife had trained me to doubt myself, and Tina had met me in raw need, Kristina stepped into the territory where being seen and being studied started to blur.
 
 What pulled me in first was recognition. She seemed to understand things that mattered to me. Reflected interests back at me. Mirrored emotional language in ways that made the connection feel unusually specific.
 
@@ -95,7 +95,7 @@ When I felt unseen, I latched onto whoever made me feel recognized.
 
 When I felt threatened with abandonment, I reached like separation might kill me. When I got confused, I assumed I was defective. When shame flared, I hid. When panic rose past what my body could regulate, I used.
 
-When using created more shame, I hid harder. That is the spiral. Trinity, Tina, and Kristina were not separate detours from the same life. They were three expressions of the same unresolved system trying, failing, and trying again to solve pain through attachment.
+When using created more shame, I hid harder. That is the spiral. my ex-wife, Tina, and Kristina were not separate detours from the same life. They were three expressions of the same unresolved system trying, failing, and trying again to solve pain through attachment.
 
 What made the spiral so destructive was not just who entered these rooms, but what was already waiting inside them. Old trauma, shame, invalidation, and unregulated fear turned each connection into a test it was never built to pass. For most of my life, I only knew how to think in extremes: it is all their fault or it is all mine. Neither one gets close enough to the truth to be useful.
 

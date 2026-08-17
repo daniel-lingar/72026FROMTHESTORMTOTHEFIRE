@@ -3,9 +3,9 @@ The silence of the late hours hits different when you’ve spent the entire day 
 
 No script. Just the truth, stripped bare. It started with trying to connect. I poured months into a video.
 
-Creativity, energy, everything I had left. I showed it to the people I cared about most. Silence. Teaguen said he had no time.
+Creativity, energy, everything I had left. I showed it to the people I cared about most. Silence. one of my children said he had no time.
 
-Shayla brushed it off like it didn’t matter. Then the songs. Written for her. Better than the noise on the radio.
+one of my children brushed it off like it didn’t matter. Then the songs. Written for her. Better than the noise on the radio.
 
 Meant to say what I couldn’t out loud. Unheard. Unacknowledged. That hurt.
 
