@@ -46,3 +46,4 @@ This is a private working repository. For inquiries about the manuscript or proj
 ---
 
 © 2026 Daniel Lingar. All rights reserved. | Managed via GitHub Pages
+ 
