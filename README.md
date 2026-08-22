@@ -2,6 +2,8 @@
 
 Working manuscript repository for **From the Storm to the Fire** by Daniel Lingar — a memoir of survival, truth, and the spaces in between.
 
+> **WRH Project Ecosystem:** This repository preserves active working drafts, structural revisions, and development history. For the consolidated public portfolio and system map, start at [Technical Prompt Engineer & AI Evaluation Specialist](https://daniel-lingar.github.io/technical-prompt-engineer-portfolio/). For the primary polished public manuscript, see [from-the-storm-to-the-fire](https://github.com/daniel-lingar/from-the-storm-to-the-fire).
+
 ## About This Project
 
 This repository serves as the central hub for the book's ongoing development, tracking structural revisions, developmental edits, and archival materials as the project moves toward completion.
